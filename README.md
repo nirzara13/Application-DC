@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # application-dc
 
 ## Build Setup
@@ -71,3 +72,6 @@ More information about the usage of this directory in [the documentation](https:
 =======
 # Application-DC
 >>>>>>> 12e64efdc9fe5e6f424864deaf6ab81142412c00
+=======
+# Application-DC
+>>>>>>> 077977ed3355ff4aa7e1f738afcba6c11f85c713
