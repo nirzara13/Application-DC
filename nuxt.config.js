@@ -1,7 +1,7 @@
 // export default {
 //   // Global page headers: https://go.nuxtjs.dev/config-head
 //   head: {
-//     title: 'application-dc',
+//     title: 'app-dc',
 //     htmlAttrs: {
 //       lang: 'en'
 //     },
@@ -43,11 +43,6 @@
 //   build: {
 //   }
 // }
-
-
-
 export default {
-  buildModules: [
-    '@nuxtjs/tailwindcss',
-  ],
-}
+  buildModules: ["@nuxtjs/tailwindcss"],
+};
